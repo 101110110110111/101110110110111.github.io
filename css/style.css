@@ -8,14 +8,7 @@ body {
   padding: 75px;
 }
 
-table, th, td {
-  border: 5px;
-  border-style: solid;
-  border-width: 1px;
-  padding: 1px;
-  text-align: center;
-}
-
+body
 /* unvisited link */
 a:link {
   color: #0000ff;
@@ -34,4 +27,12 @@ a:hover {
 /* selected link */
 a:active {
   color: #0077ff;
+}
+
+table, th, td {
+  border: 5px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 1px;
+  text-align: center;
 }
